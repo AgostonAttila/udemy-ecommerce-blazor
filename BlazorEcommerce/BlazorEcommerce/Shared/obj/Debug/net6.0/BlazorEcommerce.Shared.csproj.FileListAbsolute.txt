@@ -1,0 +1,12 @@
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.deps.json
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfoInputs.cache
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfo.cs
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.CoreCompileInputs.cache
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.dll
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\refint\BlazorEcommerce.Shared.dll
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.pdb
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\ref\BlazorEcommerce.Shared.dll
