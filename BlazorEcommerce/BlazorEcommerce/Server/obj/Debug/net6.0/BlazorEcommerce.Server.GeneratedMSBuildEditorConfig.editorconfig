@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorEcommerce.Server
 build_property.RootNamespace = BlazorEcommerce.Server
-build_property.ProjectDir = e:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Server\
+build_property.ProjectDir = E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Server\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Server
+build_property.MSBuildProjectDirectory = E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Server
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/Programming/Courses/Course Repos/UDEMY Blazor Ecommerce NET6/udemy-ecommerce-blazor/BlazorEcommerce/BlazorEcommerce/Server/Pages/Error.cshtml]
+[E:/Programming/Courses/Course Repos/UDEMY Blazor Ecommerce NET6/udemy-ecommerce-blazor/BlazorEcommerce/BlazorEcommerce/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -647,6 +647,7 @@ E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.pdb
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\ref\BlazorEcommerce.Client.dll
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
+E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.3.9xdqu6l010.js
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.3.9xdqu6l010.js.gz
 E:\Programming\Courses\Course Repos\UDEMY Blazor Ecommerce NET6\udemy-ecommerce-blazor\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\+vtCitOI.gz
