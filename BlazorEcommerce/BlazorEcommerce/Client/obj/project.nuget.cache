@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UQXPPNBPPSCvrRCthpbDLo2i+u3L6X2tBzSBNACzaCnUv/CBEyCTXurj8Lugib57RXl/4pfsHWdXL0XCGRb1mA==",
+  "dgSpecHash": "ekXopxySiRwUPbOLYls/SmrXgf9Hpumvw8AILopx/cgxhVMQ+V3fF7HaSikQhCRnCUWd0fQchZVlF58XijWlPw==",
   "success": true,
   "projectFilePath": "E:\\Programming\\Courses\\Course Repos\\UDEMY Blazor Ecommerce NET6\\udemy-ecommerce-blazor\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\atesz\\.nuget\\packages\\blazored.localstorage\\4.2.0\\blazored.localstorage.4.2.0.nupkg.sha512",
     "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
     "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.2\\microsoft.aspnetcore.components.6.0.2.nupkg.sha512",
     "C:\\Users\\atesz\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.2\\microsoft.aspnetcore.components.analyzers.6.0.2.nupkg.sha512",
@@ -33,7 +34,7 @@
     "C:\\Users\\atesz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\atesz\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\atesz\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\atesz\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.3\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.3.nupkg.sha512"
+    "C:\\Users\\atesz\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.4\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.4.nupkg.sha512"
   ],
   "logs": []
 }

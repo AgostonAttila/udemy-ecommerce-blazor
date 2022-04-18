@@ -5,7 +5,7 @@
 
 @if (ProductService.Products == null || ProductService.Products.Count == 0)
 {
-    <span>Loading...</span>
+    <span>@ProductService.Message</span>
 }
 else
 {
@@ -13,7 +13,7 @@ else
         @foreach (var product in ProductService.Products)
         {
             <li class="media my-3">
-                <div class="media-img-wrapper mr-2">                   
+                <div class="media-img-wrapper mr-2">
                     <a href="/product/@product.Id">
                         <img class="media-img" src="@product.ImageUrl" alt="@product.Title" />
                     </a>
@@ -24,13 +24,20 @@ else
                     </a>
                     <p>@product.Description</p>
                     <h5 class="price">
-                        $@product.Price
+                        @GetPriceText(product);
                     </h5>
                 </div>
             </li>
         }
 
     </ul>
+     for (var i = 1; i <= ProductService.PageCount; i++)
+    {
+        <a class="btn
+                 @(i == ProductService.CurrentPage ? "btn-info" : "btn-outline-info")
+                 page-selection"
+                 href="/search/@ProductService.LastSearchText/@i">@i</a>
+    }
 }
 
 @code {
@@ -43,7 +50,20 @@ else
 
     public void Dispose()
     {
-         ProductService.ProductChanged += StateHasChanged;
+        ProductService.ProductChanged += StateHasChanged;
+    }
+
+    private string GetPriceText(Product product)
+    {
+        var variants = product.Variants;
+        if (variants.Count == 0)
+            return string.Empty;
+        else if (variants.Count == 1)        
+            return $"${variants[0].Price}";
+        
+
+        decimal minPrice = variants.Min(v => v.Price);
+        return $"Starting at ${minPrice}";
     }
 
 }

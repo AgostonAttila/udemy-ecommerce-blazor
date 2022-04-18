@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "F9qaL5/6PoL4gSU2rb7IZQsqbNd5j7gg4+H0kJO6R4P/D2oJMhezrCOMofTibJkP/6Ahrg+rY65Lb/qB7xTNfQ==",
+  "dgSpecHash": "/4nGWj5Vse+pd9syXFdNWoornrr30ByrfMoMFXcq2PcgetXWN8O5ZpeZQaJlD6RLncj+q9ywtBobEAZnJPAjmw==",
   "success": true,
   "projectFilePath": "E:\\Programming\\Courses\\Course Repos\\UDEMY Blazor Ecommerce NET6\\udemy-ecommerce-blazor\\BlazorEcommerce\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
   "expectedPackageFiles": [
