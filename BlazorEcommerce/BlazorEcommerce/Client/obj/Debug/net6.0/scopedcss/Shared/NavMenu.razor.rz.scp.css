@@ -1,5 +1,5 @@
 .navbar-toggler[b-d7qi8mznuc] {
-    background-color: rgba(255, 255, 255, 0.1);
+    color: rgba(255, 255, 255, 0.1);
 }
 
 .top-row[b-d7qi8mznuc] {
@@ -21,15 +21,8 @@
 .nav-item[b-d7qi8mznuc] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
+    padding-top: 0.5rem;
 }
-
-    .nav-item:first-of-type[b-d7qi8mznuc] {
-        padding-top: 1rem;
-    }
-
-    .nav-item:last-of-type[b-d7qi8mznuc] {
-        padding-bottom: 1rem;
-    }
 
     .nav-item[b-d7qi8mznuc]  a {
         color: #d7d7d7;
@@ -40,19 +33,28 @@
         line-height: 3rem;
     }
 
-.nav-item[b-d7qi8mznuc]  a.active {
-    background-color: rgba(255,255,255,0.25);
-    color: white;
-}
+        .nav-item[b-d7qi8mznuc]  a.active {
+            background-color: rgba(255,255,255,0.25);
+            color: white;
+        }
 
-.nav-item[b-d7qi8mznuc]  a:hover {
-    background-color: rgba(255,255,255,0.1);
-    color: white;
+        .nav-item[b-d7qi8mznuc]  a:hover {
+            background-color: rgba(255,255,255,0.1);
+            color: white;
+        }
+
+.flex-nav[b-d7qi8mznuc] {
+    flex-direction: column;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-d7qi8mznuc] {
+    .navbar-toggler[b-d7qi8mznuc], .navbar-toggler-wrapper[b-d7qi8mznuc] {
         display: none;
+    }
+
+    .flex-nav[b-d7qi8mznuc] {
+        flex-direction: row;
+        display: flex;
     }
 
     .collapse[b-d7qi8mznuc] {
